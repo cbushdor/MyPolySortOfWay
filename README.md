@@ -2,9 +2,9 @@
 * Created By : sdo
 * File Name : README.md
 * Creation Date : 2026-01-16 23:16:20
-* Last Modified : 2026-01-17 00:03:51
+* Last Modified : 2026-01-17 00:05:10
 * Email Address : cbushdor013@laposte.net
-* Version : 0.0.0.26
+* Version : 0.0.0.28
 * License : 
 * 	Permission is granted to copy, distribute, and/or modify this document under the terms of the Creative Commons Attribution-NonCommercial 3.0
 * 	Unported License, which is available at http://creativecommons.org/licenses/by-nc/3.0/.
@@ -17,7 +17,7 @@
 
 # Introduction
 
-I tried to use polymorphism within vimscript. Two methods were covered but I guess I haven't yet fully covered the trick on how to do it. Only two methods were covered: autoload, ftplugin... This plugin is king of maquette/modeling for me!
+I tried to use polymorphism within vimscript. Two methods were covered but I guess I haven't yet fully covered the trick on how to do it. Only two methods were covered: autoload, ftplugin... This plugin is kind of maquette/modeling for me!
 
 Sorry about that!
 
