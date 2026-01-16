@@ -1,0 +1,7 @@
+*MyFormatXML.txt*   Extended "%" formating
+
+Edit mode, hence type ':MyFormatXML' and,
+check for output and directory plugin.
+Indent *xml file.
+
+vim:tw=78:ts=15:ft=help:norl:
