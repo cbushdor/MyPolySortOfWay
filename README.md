@@ -2,9 +2,9 @@
 * Created By : sdo
 * File Name : README.md
 * Creation Date : 2026-01-16 23:16:20
-* Last Modified : 2026-01-16 23:44:02
+* Last Modified : 2026-01-17 00:03:51
 * Email Address : cbushdor013@laposte.net
-* Version : 0.0.0.13
+* Version : 0.0.0.26
 * License : 
 * 	Permission is granted to copy, distribute, and/or modify this document under the terms of the Creative Commons Attribution-NonCommercial 3.0
 * 	Unported License, which is available at http://creativecommons.org/licenses/by-nc/3.0/.
@@ -15,13 +15,20 @@
 
 # Polymorphism sort of way. 
 
+# Introduction
+
+I tried to use polymorphism within vimscript. Two methods were covered but I guess I haven't yet fully covered the trick on how to do it. Only two methods were covered: autoload, ftplugin... This plugin is king of maquette/modeling for me!
+
+Sorry about that!
+
+Sébastien Dorey --- SDO ¯\\_(ツ)_/¯
 
 # Technical requirements
 
-- [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor))[^1][^3] (text editor): Version 9.0.1050.
+- [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) (text editor): Version 9.0.1050.
 - System [macOS](https://en.wikipedia.org/wiki/MacOS): Version 13.2.1 (22D68).
 - Scripts: [Markdown](https://en.wikipedia.org/wiki/Markdown), [Vim Script](https://en.wikipedia.org/wiki/Vim_(text_editor)#Vim_script).
-- [Shell](https://en.wikipedia.org/wiki/Unix_shell): zsh is used, but other shell should be ok (not tested yet).
+- [Shell](https://en.wikipedia.org/wiki/Unix_shell): [zsh](https://en.wikipedia.org/wiki/Z_shell) was used.
 - Vim plugin: [Vim-plug](https://github.com/junegunn/vim-plug).
 
 
