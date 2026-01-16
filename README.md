@@ -2,9 +2,9 @@
 * Created By : sdo
 * File Name : README.md
 * Creation Date : 2026-01-16 23:16:20
-* Last Modified : 2026-01-16 23:26:09
+* Last Modified : 2026-01-16 23:29:40
 * Email Address : cbushdor013@laposte.net
-* Version : 0.0.0.200
+* Version : 0.0.0.202
 * License : 
 * 	Permission is granted to copy, distribute, and/or modify this document under the terms of the Creative Commons Attribution-NonCommercial 3.0
 * 	Unported License, which is available at http://creativecommons.org/licenses/by-nc/3.0/.
@@ -73,7 +73,7 @@ or
 
 Once installed the right way, you can live vim.
 
-To start using pluging, start vim the usual and, use the next commands:
+To start using pluging, start vim as usual and, use the next commands to start:
 
 ```
 	:help MyPolymorphism
