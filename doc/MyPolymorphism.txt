@@ -1,10 +1,10 @@
 *MyPolymorphism.txt*   Extended "%" polymorphism
 
-Edit mode, hence type ':MyPolymorphism' and
+Enter in edit mode. Hence, type ':MyPolymorphism' and
 check for outputs.
-Check directory autoload/foo for extension covered..
-Check with another extension that does not exist 
-in autoload/foo. 
+Check directory autoload/foo for extension covered.
+Check with other extension that does not exist 
+in autoload/foo (extension).vim. 
 The aim is to test on extensions with polymorphism.
 
 Tests can be made on opening files s.a:
@@ -14,8 +14,6 @@ Tests can be made on opening files s.a:
    test.c   test.c++
 <
 
-If extension does not exist errors occured
-when extension are not covered within 
-plugin MyPolySortOfWay.
+If extension does not exist error occured.
 
 vim:tw=78:ts=15:ft=help:norl:
