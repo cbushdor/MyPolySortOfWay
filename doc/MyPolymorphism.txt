@@ -1,11 +1,20 @@
 *MyPolymorphism.txt*   Extended "%" polymorphism
 
+Open Terminal. Go to directory ~/Downloads/test.
+If not so create one and cd ~/Downloads/test.
+Create several files with different extensions.
+Type the follow on your terminal:
+>
+   vim test.xml
+<
+
 Enter in edit mode. Hence, type ':MyPolymorphism' and
 check for outputs.
 Check directory autoload/foo for extension covered.
 Check with other extension that does not exist 
 in autoload/foo (extension).vim. 
 The aim is to test on extensions with polymorphism.
+
 
 Tests can be made on opening files s.a:
 >
