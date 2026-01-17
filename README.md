@@ -23,6 +23,7 @@ a:active { color: white; background-color: transparent; text-decoration: underli
 <pre id='vimCodeElement'>
 *<a id="README.md" href="">MyPolySortOfWay.txt</a>*   Extended "%" polymorphism
 Read the following:
+   help MyPolySortOfWay.txt
    help Hello.txt
    help MyPolymorphism.txt
    help MyFormatXML.txt
