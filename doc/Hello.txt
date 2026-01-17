@@ -1,9 +1,17 @@
 *Hello.txt*   Extended "%" polymorphism
 
 Edit mode, hence type ':Hello' and
-check for output and directory ftplugin.
+check for output. extension were covered in
+directory ftplugin.
 
-edit with vim *cpp file, *c++ file, *.a file.
+Tests can be made on opening files s.a:
+>
+   test.xml test.a test.cpp_
+   test.cpp test.b test.cll
+   test.c   test.c++
+<
+
+Edit upper files for testing with vim
 check with another file extension that does
 not exist in ftplugin.
 

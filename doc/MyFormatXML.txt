@@ -1,7 +1,14 @@
 *MyFormatXML.txt*   Extended "%" formating
 
-Edit mode, hence type ':MyFormatXML' and,
-check for output and directory plugin.
-Indent *xml file.
+Open an xml file.
+Edit mode, type ':MyFormatXML' and,
+check for output.
+
+Tests on behavior, can be made on files s.a:
+>
+   test.xml test.a test.cpp_
+   test.cpp test.b test.cll
+   test.c   test.c++
+<
 
 vim:tw=78:ts=15:ft=help:norl:
