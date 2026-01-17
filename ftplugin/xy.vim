@@ -1,25 +1,27 @@
 " ------------------------------------------------------
 " Created By : sdo
-" File Name : b.vim
-" Creation Date : 2026-01-16 19:08:46
-" Last Modified : 2026-01-17 23:29:05
+" File Name : xy.vim
+" Creation Date : 2026-01-13 23:16:07
+" Last Modified : 2026-01-18 00:04:27
 " Email Address : cbushdor013@laposte.net
-" Version : 0.0.0.13
+" Version : 0.0.0.3
 " License : 
 " 	Permission is granted to copy, distribute, and/or modify this document under the terms of the Creative Commons Attribution-NonCommercial 3.0
 " 	Unported License, which is available at http://creativecommons.org/licenses/by-nc/3.0/.
 " Purpose :
 "  Add into file ~/.vimrc the following line:
-"              au BufRead,BufNewFile *.b set filetype=b
+"              au BufRead,BufNewFile *.a set filetype=a
 " ------------------------------------------------------
 
-echo "We read b"
-if (&ft != 'b')
-    finish
-endif
+echo "We read xy"
 
-function s:Hello()
-   echom "Hello from b"
+"if (&ft != 'xy')
+"    finish
+"endif
+
+
+function! s:Hello()
+   echom "Hello from \"*.xy\" sort of why?"
 endfunction
 
 command! Hello call s:Hello()
