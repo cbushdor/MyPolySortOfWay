@@ -1,11 +1,19 @@
 *MyPolySortOfWay.txt*   Extended "%" polymorphism
 
+Add  ~/.vimrc the following line:
+>
+   source ~/.vim/plugged/MyPolySortOfWay/filterTranstypage/filter.vim
+<
+
+This is where you can add types.
 
 Read the following:
+>
+   help MyPolySortOfWay.txt
    help Hello.txt
    help MyPolymorphism.txt
    help MyFormatXML.txt
-   help MyPolySortOfWay.txt
+<
 
 If extension does not exist error occured whatever
 the method used!

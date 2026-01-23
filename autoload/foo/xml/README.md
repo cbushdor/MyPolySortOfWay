@@ -22,11 +22,34 @@ a:active { color: white; background-color: transparent; text-decoration: underli
 <body>
 <pre id='vimCodeElement'>
 *<a id="README.md" href="">MyPolySortOfWay.txt</a>*   Extended "%" polymorphism
+Add  ~/.vimrc the following line:
+<!--&gt;a:link { color: white; background-color: transparent; text-decoration: none;}
+a:visited { color: white; background-color: transparent; text-decoration: none; }
+a:hover { color: white; background-color: transparent; text-decoration: none; } 
+a:active { color: white; background-color: transparent; text-decoration: underline; }
+-->
+   source ~/.vim/plugged/MyPolySortOfWay/filterTranstypage/filter.vim
+<!--&lt;a:link { color: white; background-color: transparent; text-decoration: none;}
+a:visited { color: white; background-color: transparent; text-decoration: none; }
+a:hover { color: white; background-color: transparent; text-decoration: none; } 
+a:active { color: white; background-color: transparent; text-decoration: underline; }
+-->
+This is where you can add types.
 Read the following:
+<!--&gt;a:link { color: white; background-color: transparent; text-decoration: none;}
+a:visited { color: white; background-color: transparent; text-decoration: none; }
+a:hover { color: white; background-color: transparent; text-decoration: none; } 
+a:active { color: white; background-color: transparent; text-decoration: underline; }
+-->
+   help README.md
    help Hello.txt
    help MyPolymorphism.txt
    help MyFormatXML.txt
-   help README.md
+<!--&lt;a:link { color: white; background-color: transparent; text-decoration: none;}
+a:visited { color: white; background-color: transparent; text-decoration: none; }
+a:hover { color: white; background-color: transparent; text-decoration: none; } 
+a:active { color: white; background-color: transparent; text-decoration: underline; }
+-->
 If extension does not exist error occured whatever
 the method used!
 If not, then add your extension to ftplugin or
