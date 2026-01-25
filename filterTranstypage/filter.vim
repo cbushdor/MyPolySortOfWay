@@ -15,3 +15,4 @@ au BufRead,BufNewFile *.a set filetype=a
 au BufRead,BufNewFile *.b set filetype=b
 au BufRead,BufNewFile *.xy set filetype=xy
 au BufRead,BufNewFile *.c++ set filetype=cpp
+au BufRead,BufNewFile *.momo set filetype=cpp
