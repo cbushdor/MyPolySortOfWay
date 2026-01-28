@@ -2,9 +2,9 @@
 " Created By : sdo
 " File Name : xy.vim
 " Creation Date : 2026-01-13 23:16:07
-" Last Modified : 2026-01-18 00:04:27
+" Last Modified : 2026-01-28 01:13:22
 " Email Address : cbushdor013@laposte.net
-" Version : 0.0.0.3
+" Version : 0.0.0.4
 " License : 
 " 	Permission is granted to copy, distribute, and/or modify this document under the terms of the Creative Commons Attribution-NonCommercial 3.0
 " 	Unported License, which is available at http://creativecommons.org/licenses/by-nc/3.0/.
@@ -21,7 +21,7 @@ echo "We read xy"
 
 
 function! s:Hello()
-   echom "Hello from \"*.xy\" sort of why?"
+   echom "---> Hello from \"*.xy\" sort of why?"
 endfunction
 
 command! Hello call s:Hello()
