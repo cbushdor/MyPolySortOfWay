@@ -2,9 +2,9 @@
 " Created By : sdo
 " File Name : a.vim
 " Creation Date : 2026-01-13 23:16:07
-" Last Modified : 2026-01-17 23:30:47
+" Last Modified : 2026-01-31 01:11:47
 " Email Address : cbushdor013@laposte.net
-" Version : 0.0.0.26
+" Version : 0.0.0.27
 " License : 
 " 	Permission is granted to copy, distribute, and/or modify this document under the terms of the Creative Commons Attribution-NonCommercial 3.0
 " 	Unported License, which is available at http://creativecommons.org/licenses/by-nc/3.0/.
@@ -22,6 +22,10 @@ echo "We read a"
 
 function! s:Hello()
    echom "Hello from \"*.a\" sort of why?"
+endfunction
+
+function! MyHello()
+   call s:Hello()
 endfunction
 
 command! Hello call s:Hello()
